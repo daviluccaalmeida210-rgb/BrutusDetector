@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Biome Detection • Anti-AFK • Automation</strong>
+  <strong>Biome Detection • Anti-AFK</strong>
 </p>
 
 ---
@@ -19,12 +19,7 @@
 - **Biome Detection** – Automatically detects biomes in Brutus RNG.
 - **Anti-AFK** – Helps prevent inactivity while playing.
 
-## Supported Biomes
 
-- Midnight Hollow
-- Graveborn
-
----
 
 <p align="center">
   Made with ❤️ for the Brutus RNG community.
